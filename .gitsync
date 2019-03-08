@@ -1,6 +1,4 @@
-[
-  {
-    "name": "example",
-    "ssh_url_to_repo": "git@githost.tld:url/to/git/repo.git",
-  },
-]
+---
+repos:
+   example:
+      url: 'git@githost.tld:url/to/git/repo.git'
